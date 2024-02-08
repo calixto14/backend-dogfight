@@ -1,0 +1,23 @@
+{
+  "name": "backend-dogfight",
+  "version": "1.0.0",
+  "description": "rinha de backend 2024",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calixto14/backend-dogfight.git"
+  },
+  "author": "Gustavo Luis Calixto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calixto14/backend-dogfight/issues"
+  },
+  "homepage": "https://github.com/calixto14/backend-dogfight#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
